@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "ぐり",
+      "description": "やんちゃんな茶とらのオス。\nぐりのお兄ちゃん。",
+      "price": 200,
+      "imageUrl": "/home/toya_manabu/src/github.com/toya-manabu-TestFolder/nextjs-tenant-app/public/images/pizza.jpg",
+      "deleted": false,
+      "options": []
+    },
+    {
+      "id": 2,
+      "name": "ぐら",
+      "description": "甘えん坊の茶とら猫。\nぐらの弟",
+      "price": "102",
+      "imageUrl": "",
+      "deleted": false,
+      "options": []
+    },
+    {
+      "id": 3,
+      "name": "たいちょう",
+      "description": "白い大福のようなハムスター。",
+      "price": "20",
+      "imageUrl": "",
+      "deleted": false,
+      "options": []
+    }
+  ]
+}

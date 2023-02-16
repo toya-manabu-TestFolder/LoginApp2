@@ -1,0 +1,11 @@
+.displaynone {
+  display: none;
+}
+.caveat {
+  color: red;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
